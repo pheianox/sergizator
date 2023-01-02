@@ -1,4 +1,6 @@
 # Sərgizator
 
-Synthesizer or electronic musical instrument
+Virtual sintezator for kavkaz
+
+[Online Demo](https://github.com/pheianox-sergizator.netlify.app)
 
