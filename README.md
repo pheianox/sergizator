@@ -2,5 +2,5 @@
 
 Virtual sintezator for kavkaz
 
-[Online Demo](https://github.com/pheianox-sergizator.netlify.app)
+[Online Demo](https://pheianox-sergizator.netlify.app)
 
